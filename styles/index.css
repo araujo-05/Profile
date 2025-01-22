@@ -1,0 +1,38 @@
+body{
+    font-family: "Poppins", sans-serif;
+    background: linear-gradient(#348e91, #1c5052);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+header {
+    color:#f2f2f2;
+
+}
+.area-perfil{
+    background: #325a58;
+    display: flex;
+    max-width: 600px;
+    padding: 20px;
+    border: none;
+    border-radius: 10px;
+}
+.area-perfil img{
+    border-radius: 50%;
+    height: 200px;
+}
+.area-perfil a{
+    text-decoration: none;
+    color: #f2f2f2;
+}
+.area-perfil a:hover {
+    color: #f2f2a5;
+    transition: 0.5s;
+    text-decoration: dashed;
+}
+.area-perfil ul{
+    padding-top: 15px;
+}
+.area-perfil li{
+    list-style-type: none;
+    margin: 10px;
+}
