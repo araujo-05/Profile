@@ -1,2 +1,2 @@
 # Profile
-My profile
+Project developed to present my developer profile
